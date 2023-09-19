@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-light-mode.ae3068ee8c01.svg",
+        "header": "Light and Dark modes",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--light-mode@2x.db13465d36d0.png",
+        "description": "Brighten up your day with light mode, now available in the Opera GX mobile and desktop browsers. Browse the light or dark side and switch between them as needed."
+    },
+    {
+        "id": "2",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-corner.be1333483846.svg",
+        "header": "GX Corner",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--gx-corner@2x.c5cc63cc34ae.png",
+        "description": "Get free games, the best deals, plus a game-release calendar and gaming news all in one place. GX Corner in the mobile browser also delivers free mobile games and the best game suggestions."
+    },
+    {
+        "id": "3",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-twitch.8902d1ec9cef.svg",
+        "header": "Twitch",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--twitch@2x.9b90dd1e676c.png",
+        "description": "Never miss a live stream. With Twitch right in your sidebar, you can easily see the channels you follow, who's online, and choose to receive notifications whenever someone you follow goes live."
+    },
+    {
+        "id": "4",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-discord.513c7c78f5c8.svg",
+        "header": "Discord",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--discord@2x.4eafdbc3c607.png",
+        "description": "Talk with your teams, friends and communities with Discord in your sidebar. Join us on Discord to talk about gaming, give feedback on GX, and have fun with the Opera GX community."
+    },
+    {
+        "id": "5",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-player.416a8e402db6.svg",
+        "header": "Player",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--player@2x.eb277877ad87.png",
+        "description": "A world of music and podcasts at your fingertips. Connect to all your music services in one place, and switch between them easily."
+    },
+    {
+        "id": "6",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-messengers.9bd35388afd6.svg",
+        "header": "Messengers",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--messengers@2x.6bd61cbaf746.png",
+        "description": "Chat and browse at the same time with Facebook Messenger, Telegram, Vkontakte, TikTok and WhatsApp integrated right into the sidebar."
+    },
+    {
+        "id": "7",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-pinboards.7e83626e788a.svg",
+        "header": "Pinboards",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--pinboards@2x.e19c91bdaa38.png",
+        "description": "Save and collect web content easily, share it visually. Collect pictures, links, music, files and notes to create builds, compare hardware deals, or plan the ultimate gaming den - in easily shareable, eye-pleasing boards."
+    },
+    {
+        "id": "8",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-flow.736ea0e793e4.svg",
+        "header": "Flow",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--flow@2x.a7355cca5e3a.png",
+        "description": "Just scan a QR code to connect your computer and mobile browsers with Flow. Send links, videos, files and notes to yourself in a single click, and access them instantly on all your devices."
+    },
+    {
+        "id": "9",
+        "logo": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx-fast-navigation.53111f7a4633.svg",
+        "header": "Fast Navigation",
+        "image": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/sections/2021/gx-features-slider/gx__feature--fast-navigation@2x.6ca1815036ba.png",
+        "description": "Choose between the Fast Action Button (FAB) and standard navigation in your Opera GX mobile browser. The FAB is always in thumb’s reach and provides haptic feedback - perfect when you’re on the move."
+    }
+]
